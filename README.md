@@ -1,3 +1,16 @@
+WebTeam Skills Tasks
+============
+
+Congratulations! You have been accepted into second phase of the interview process.
+
+During this phase your skills as an individual will be tested according to the requirements
+
+of the position.
+
+All tasks will be demoed live after the submission date. We will contact you with the demo
+
+date. Please contact in advance of you do not possess a laptop to demo with.
+
 GIT Workflow
 ============
 
